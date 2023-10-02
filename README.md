@@ -2,6 +2,10 @@
 
 My name is Felipe Luís Pinheiro, I have a bachelor and a master degree on Physics at the [University of Brasília](https://www.unb.br), I'm studying Computer science at [University of Brasília](https://www.unb.br) and I'm on a MBA of Cyber Security at the [Fiap](https://www.fiap.com).
 
+I'm working at [Eldorado Institute](https://www.eldorado.org.br) as a full stack developer.
+
+I worke at [Compuletra]() as a backend developer and as a devops engineer, [Basis]() as a full stack developer, [Banco Central do Brasil]() as Internship, [UnB]() as a Teacher, [Unieuro]() as a Teacher and  [Uniplan]() as a Teacher.
+
 # Social
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flpinheiro/)](https://www.linkedin.com/in/flpinheiro/)
@@ -36,12 +40,6 @@ My name is Felipe Luís Pinheiro, I have a bachelor and a master degree on Physi
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-# Where I Work
-
-I'm working at [Eldorado Institute](https://www.eldorado.org.br) as a full stack developer
-
-I worke at [Compuletra]() as a backend developer and as a devops engineer, [Basis]() as a full stack developer, [Banco Central do Brasil]() as Internship, [UnB]() as a Teacher, [Unieuro]() as a Teacher and  [Uniplan]() as a Teacher
 
 # 📊 GitHub Stats:
 
